@@ -6,3 +6,7 @@ The purpose of this project was to:
 - Write Python functions that analyze data from a novel of text and extrapolate word and character counts.
 - Build an analytics report and add command-line tooling to make your application usable with any plain text file.
 # Usage
+
+
+---
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
